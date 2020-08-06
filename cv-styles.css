@@ -1,0 +1,73 @@
+html {
+    background-color: F9F5EF;
+    background-image: linear-gradient(#F9F5EF, #F0E8EF);
+    font-family: 'Libre Franklin', sans-serif;
+    font-weight: 300;
+    font-size: 100%;
+    color: 1B161B;
+}
+
+
+body { 
+    background-color: 342834;
+    margin: auto;    
+    background-color: white;
+    padding: 40px 40px 12px 40px;
+    width: 85%;
+    min-width: 800px;
+    border-radius: .2em;
+    box-shadow: 2px 2px 2px 2px hsla(0, 0%, 20%, .2);
+    
+}
+
+h1{
+    font-size: 2.9rem;
+    position: relative;
+    top: .6rem;
+}
+
+h2{
+    font-size: 1.2rem;
+    line-height: 1.6
+}
+
+h3{
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: .4rem;
+}
+
+h4{
+    font-size: 1rem;
+    line-height: .2em;
+    font-weight: 300;
+}
+        
+ul{ 
+    text-align: left;
+    line-height: 1.6rem;
+}
+        
+img{
+    width: 100%;
+    max-width: 200px;
+    border-radius: 50%;
+}
+        
+.column {
+    float: left;
+    width: 33.33%;
+}
+
+.after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+#contact-links{
+    background-color: #F6F1F6;
+    margin: 0px -30px 0px -30px;
+    padding: 0px 0px 0px 30px;
+    font-size: 20px
+}
